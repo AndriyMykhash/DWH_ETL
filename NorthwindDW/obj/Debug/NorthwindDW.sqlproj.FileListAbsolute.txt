@@ -1,0 +1,10 @@
+C:\Projects\DW\NorthwindDW\bin\Debug\NorthwindDW.dacpac
+C:\Projects\DW\NorthwindDW\bin\Debug\NorthwindDW.dll
+C:\Projects\DW\NorthwindDW\bin\Debug\NorthwindDW.pdb
+C:\Projects\DW\NorthwindDW\obj\Debug\NorthwindDW.sqlprojAssemblyReference.cache
+C:\Projects\DW\NorthwindDW\obj\Debug\NorthwindDW.dll
+C:\Projects\DW\NorthwindDW\obj\Debug\NorthwindDW.pdb
+C:\Projects\DW\NorthwindDW\obj\Debug\Model.xml
+C:\Projects\DW\NorthwindDW\obj\Debug\refactor.xml
+C:\Projects\DW\NorthwindDW\obj\Debug\postdeploy.sql
+C:\Projects\DW\NorthwindDW\obj\Debug\predeploy.sql

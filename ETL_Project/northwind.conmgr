@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-H9AGLAK.northwind"
+  DTS:DTSID="{932ACA6B-8C9D-4F6C-BB9A-168B187B1B42}"
+  DTS:CreationName="OLEDB">
+  <DTS:PropertyExpression
+    DTS:Name="ServerName">@[$Project::ServerName]</DTS:PropertyExpression>
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-H9AGLAK;Initial Catalog=northwind;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-{932ACA6B-8C9D-4F6C-BB9A-168B187B1B42}DESKTOP-H9AGLAK.northwind;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
